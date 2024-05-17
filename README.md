@@ -8,7 +8,7 @@ games.
 
 Due to time constraints, we only created a simple demo page and implemented some basic functions:
 
-➢ Users can create new accounts on the game review site;
+- Users can create new accounts on the game review site;
 ➢ Users can log in using email and password to view the basic account information;
 ➢ Users can delete their comments to the games by entering the corresponding comment id;
 ➢ Users can update their account information including email, username, password, and age;
